@@ -1,1 +1,8 @@
-touch
+git clone
+touch up_to_date
+vi up_to_date
+git pull
+git merge
+git add .
+git commit -m "How to be up to date in git"
+git push
